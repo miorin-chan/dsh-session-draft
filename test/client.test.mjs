@@ -62,7 +62,7 @@ test('registers the native slots and withdraws its optional service on unload', 
     },
     locale: {
       register(namespace, labels) {
-        assert.equal(namespace, registration.id)
+        assert.equal(namespace, 'dsh-session-draft')
         assert.equal(Object.keys(labels).length, 8)
         return () => {}
       },
@@ -77,7 +77,7 @@ test('registers the native slots and withdraws its optional service on unload', 
     },
   }
 
-  assert.equal(registration.id, 'dsh-session-draft')
+  assert.equal(registration.id, '@miorin/dsh-session-draft')
   assert.deepEqual(plugin.inject, ['slots', 'locale'])
   plugin.apply(ctx)
   assert.deepEqual([...slots.keys()], ['conversation.input.overlay', 'sidebar.session.row.leading'])

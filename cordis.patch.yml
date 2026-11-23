@@ -2,4 +2,4 @@
 # package.json `dsh.client` and carries Session draft.
 - insert:
     - id: dsh-session-draft
-      name: 'dsh-session-draft'
+      name: '@miorin/dsh-session-draft'
