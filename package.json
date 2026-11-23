@@ -1,7 +1,6 @@
 {
   "name": "@miorin/dsh-session-draft",
   "version": "0.1.0",
-  "private": true,
   "license": "MIT",
   "description": "Marks conversations with unsent drafts in the sidebar.",
   "type": "module",
@@ -66,5 +65,8 @@
     "esbuild": "0.28.2",
     "react": "18.3.1",
     "typescript": "5.7.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
