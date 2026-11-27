@@ -1,7 +1,8 @@
 # 项目文档
 
 - [使用说明](../README.zh.md)
-- [会话草稿设计](DESIGN.md)
+- [产品设计](DESIGN.md)
+- [实现说明](IMPLEMENTATION.md)
 - [开发约定](../AGENTS.local.md)
 
 ## 验证
