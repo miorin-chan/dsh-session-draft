@@ -9,8 +9,8 @@ The pencil uses the normal session row's leading slot, which is unavailable on b
 With **Three sidebar list modes** enabled, drafted sessions stay in **Needs attention**.
 
 Requires DeepSeek Harness 0.2.2-rc.5 or newer.
-Enable **Session draft** in Workspace Modular Improvement Plan.
-For a standalone install from source, run `npm ci` in the checkout to build the plugin,
+Enable **Session draft** in **List Modular Improvement Plan**.
+For a standalone install from source, run `pnpm install` in the checkout to build the plugin,
 then select that directory in **Plugins → Add plugin**.
 
 [Project documentation](docs/README.md)

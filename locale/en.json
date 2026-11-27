@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "Session draft",
-    "description": "Shows a pencil beside idle conversations with an unsent draft."
+    "description": "Shows a pencil beside idle conversations with an unsent draft.",
+    "detail": "docs/DETAIL.md"
   }
 }
