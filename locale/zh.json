@@ -1,6 +1,7 @@
 {
   "meta": {
     "title": "会话草稿",
-    "description": "在有未发送草稿的空闲会话左侧显示铅笔。"
+    "description": "在有未发送草稿的空闲会话左侧显示铅笔。",
+    "detail": "docs/DETAIL.zh.md"
   }
 }

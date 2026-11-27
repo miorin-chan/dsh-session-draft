@@ -14,3 +14,12 @@ For a standalone install from source, run `npm ci` in the checkout to build the 
 then select that directory in **Plugins → Add plugin**.
 
 [Project documentation](docs/README.md)
+
+## Screenshots
+
+The pencil marks an idle session that still has unsent text.
+The screenshots show the Chinese interface.
+
+| | Light | Dark |
+| --- | --- | --- |
+| Draft marker | ![Pencil beside a session with an unsent draft in the sidebar (light theme)](docs/assets/screenshots/main-light.png) | ![Pencil beside a session with an unsent draft in the sidebar (dark theme)](docs/assets/screenshots/main-dark.png) |
